@@ -1,0 +1,2 @@
+# cs211d-android-programming
+ Create Android User Interfaces (UIs) with controls, layout managers, adaptors, menus, and dialogues Formulate programs that utilize the distinctive capabilities of Android, including location tracking, maps, and Internet access Write Android applications incorporating activities, services, intents, and content providers Make Android applications that use Media Player for playing audio and recording visuals and SQLite for database storage
